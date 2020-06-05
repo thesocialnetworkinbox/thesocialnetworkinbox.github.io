@@ -2,7 +2,10 @@
 title: The Email Zuckerberg Sent To Cut His Cofounder Out Of Facebook
 published: true
 ---
-[原文地址：Here’s The Email Zuckerberg Sent To Cut His Cofounder Out Of Facebook](https://www.businessinsider.com/exclusive-heres-the-email-zuckerberg-sent-to-cut-his-cofounder-out-of-facebook-2012-5)
+
+`原文地址`
+
+[Here’s The Email Zuckerberg Sent To Cut His Cofounder Out Of Facebook](https://www.businessinsider.com/exclusive-heres-the-email-zuckerberg-sent-to-cut-his-cofounder-out-of-facebook-2012-5)
 
 `选段翻译`
 
