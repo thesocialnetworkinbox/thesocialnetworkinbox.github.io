@@ -1,5 +1,5 @@
 ---
-title: Aaron Sorkin: An Open Letter to Mark Zuckerberg
+title: Aaron Sorkin：An Open Letter to Mark Zuckerberg
 published: true
 ---
 
