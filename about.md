@@ -2,11 +2,11 @@
 layout: page
 title: 关于本站
 ---
-`关于本站`
+`关于本站`<br>
 
 本站目前仅收录部分长篇文字内容及其余内容的索引，获取全部内容可通过以下方式：<br>
 [新浪微博@TheSocialNetworkInbox](https://weibo.com/7431190221/profile?topnav=1&wvr=6)<br>
-[LOFTER@TheSocialNetworkInbox](http://thesocialnetworkinbox.lofter.com)<br>
+[LOFTER@TheSocialNetworkInbox](http://thesocialnetworkinbox.lofter.com)<br><br>
 
 
 `常见问题及解答`<br>
@@ -24,13 +24,13 @@ A：大部分内容博主会尽量只提供原始材料。不介意各位在转�
 <br>
 仍有疑问欢迎私信或评论。<br>
 <br>
-如果您能在阅读本账号翻译内容的过程中得到一些启示、同人创作灵感或只是单纯的快乐，那么我很高兴。<br>
+如果您能在阅读本账号翻译内容的过程中得到一些启示、同人创作灵感或只是单纯的快乐，那么我很高兴。<br><br>
 
 
-`致谢`
+`致谢`<br>
 
 感谢tocttou提供的Jekyll主题模板<br>
-[hacker-blog Jekyll Theme Homepage](https://github.com/tocttou/hacker-blog)
+[hacker-blog Jekyll Theme Homepage](https://github.com/tocttou/hacker-blog)<br><br>
 
 
 2020/06/05
