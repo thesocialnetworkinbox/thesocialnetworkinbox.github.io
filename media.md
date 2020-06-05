@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: 图片视频
 ---
 
 test
