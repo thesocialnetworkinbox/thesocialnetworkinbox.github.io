@@ -38,6 +38,9 @@ _**法律风险的主要类别是：a）信托责任。由于爱德华多是唯�
 
 
 
+
+
+
 [HackerNews对于本邮件的讨论串](https://news.ycombinator.com/item?id=22091777)
 
 `选段翻译`
