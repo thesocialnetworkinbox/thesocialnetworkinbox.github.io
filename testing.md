@@ -1,5 +1,5 @@
 ---
-layout:page
-title:testing
+layout: page
+title: testing
 ---
 testing page
