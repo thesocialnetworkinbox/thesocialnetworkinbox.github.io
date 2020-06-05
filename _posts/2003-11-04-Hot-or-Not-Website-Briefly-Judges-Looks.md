@@ -1,5 +1,5 @@
 ---
-title: Hot or Not? Website Briefly Judges Looks (November 4, 2003)
+title: Hot or Not? Website Briefly Judges Looks (Nov 4, 2003)
 published: true
 ---
 `原文地址`
