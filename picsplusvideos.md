@@ -15,7 +15,7 @@ title: 图片视频
 
 [涂鸦艺术家David Choe给Facebook办公室画壁画（点击就看马扎画火柴人）](https://weibo.com/7431190221/J0FQRDLVs?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
-[周六夜现场Andy Samberg扮演Mark Zuckerberg](https://weibo.com/7431190221/J2daH0EDf?ref=home&rid=0_0_8_4727146885527817785_0_0_0&type=comment)
+[周六夜现场Andy Samberg扮演Mark Zuckerberg](https://weibo.com/7431190221/J2dQskMA1?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1591368245718)
 
 [David Fincher与Aaron Sorkin参加Charlie Rose Show讨论《社交网络》](https://weibo.com/7431190221/J3SQ2ax4x?ref=home&rid=0_0_8_3071706957374971222_0_1_0&type=comment)
 
