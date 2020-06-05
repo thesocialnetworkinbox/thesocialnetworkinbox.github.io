@@ -8,8 +8,8 @@ title: 关于本站
 [新浪微博@TheSocialNetworkInbox](https://weibo.com/7431190221/profile?topnav=1&wvr=6)<br>
 [LOFTER@TheSocialNetworkInbox](http://thesocialnetworkinbox.lofter.com)<br>
 
-业余翻译能力有限，所有翻译内容或事实错误均欢迎捉虫。
-链接失效请通过微博或LOFTER联系博主补档。
+业余翻译能力有限，所有翻译内容或事实错误均欢迎捉虫。<br>
+链接失效请通过微博或LOFTER联系博主补档。<br>
 
 
 `常见问题及解答`<br>
