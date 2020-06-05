@@ -7,7 +7,7 @@ published: true
 
 [The Face of Facebook (New Yorker, Septemper 13, 2010)](https://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook)
 
-`正文`
+`正文译文`
 
 六年前，Mark Zuckereberg在大学寝室里创立了Facebook。至今，已有5亿人加入了这个网站，其中有879人是他的朋友。这个网站是一个世界各地的人们的通讯录，也是一个为私人创造公共身份的地方。你注册后就可以开始发布关于自己的信息：照片、工作履历、为什么现在对Rite Aid公司的小熊软糖选择感到气愤，或者对中东和平的预期。这些信息有的只有你的朋友才能看到；有的只有朋友的朋友才能看到；有的任何人都可以看到。Facebook的隐私政策让很多人感到困惑，该公司频繁更换隐私政策，几乎都是让更多的信息以更多的方式被曝光。
 
