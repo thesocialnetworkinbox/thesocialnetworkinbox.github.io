@@ -6,4 +6,4 @@ title: 意外的百万富翁
 
 [Chapter 1 October 2003](https://thesocialnetworkinbox.github.io/Chapter-1-October-2003)
 
-[Chapter 2 Harvard Yard]()
+[Chapter 2 Harvard Yard](https://thesocialnetworkinbox.github.io/Chapter-2-Harvard-Yard)
