@@ -3,17 +3,17 @@ layout: page
 title: 意外的百万富翁
 ---
 <section>
-  {% if site.posts[0] %}
+  {% if site.posts0[0] %}
 
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-    {% capture firstpostyear %}{{ site.posts[0].date | date: '%Y' }}{% endcapture %}
+    {% capture firstpostyear %}{{ site.posts0[0].date | date: '%Y' }}{% endcapture %}
     {% if currentyear == firstpostyear %}
         <h3>This year's posts</h3>
     {% else %}  
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
 
-    {%for post in site.posts %}
+    {%for post in site.posts0 %}
       {% unless post.next %}
         <ul>
       {% else %}
