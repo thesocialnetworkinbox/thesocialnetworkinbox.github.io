@@ -6,7 +6,7 @@ published: true
 
 [Zuckerberg blasts Musk warnings against artificial intelligence as ‘pretty irresponsible’](https://www.bizjournals.com/sanjose/news/2017/07/24/elon-musk-artificial-intelligence-risk-zuckerberg.html)
 
-`正文`
+`正文译文`
 
 Facebook首席执行官Mark Zuckerberg周日（注：原文的发布时间是2017年）评价Elon Musk式的针对人工智能的警告是 “相当不负责任的。”
 
