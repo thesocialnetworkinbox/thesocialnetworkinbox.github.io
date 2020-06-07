@@ -9,3 +9,5 @@ title: 短新闻
 [Facebook为躲避广告屏蔽插件拆分了单词Sponsored](https://weibo.com/7431190221/J49rantyU?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
 [Facebook的言论政策](https://weibo.com/7431190221/J4HJDe7Zo?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1591079603082)
+
+[Facebook对BlackLivesMatter表示支持](https://www.weibo.com/7431190221/J5iqr4au7?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1591512843333)
