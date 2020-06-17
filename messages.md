@@ -13,3 +13,11 @@ title: 短新闻
 [Facebook对BlackLivesMatter表示支持](https://www.weibo.com/7431190221/J5iqr4au7?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1591512843333)
 
 [多名科学工作者联名签署给Zuckerberg的公开信，希望其重新考虑对Trump的立场](https://weibo.com/7431190221/J5y2BxKJr?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[上条后续](https://weibo.com/1675780187/J5Kv0t8Vx?type=comment#_rnd1592399270411)
+
+[Zuckerberg请员工不要再把内部对话透露给媒体](https://www.weibo.com/7431190221/J6OgXgZZz?from=page_1005057431190221_profile&wvr=6&mod=weibotime)
+
+[Facebook旗下的产品WhatsApp里的移动支付功能在第一个首发国巴西广泛推出了](https://www.weibo.com/7431190221/J6OGEzAxK?from=page_1005057431190221_profile&wvr=6&mod=weibotime)
+
+[Wired评选了一些2010s的经典电影，包括《社交网络》](https://www.weibo.com/7431190221/J6PbX3nva?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592399524506)
