@@ -14,7 +14,7 @@ title: 短新闻
 
 [多名科学工作者联名签署给Zuckerberg的公开信，希望其重新考虑对Trump的立场](https://weibo.com/7431190221/J5y2BxKJr?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
-[上条后续](https://weibo.com/1675780187/J5Kv0t8Vx?type=comment#_rnd1592399270411)
+[上条后续](https://www.weibo.com/7431190221/J6Ogxx6Ay?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592399706174)
 
 [Zuckerberg请员工不要再把内部对话透露给媒体](https://www.weibo.com/7431190221/J6OgXgZZz?from=page_1005057431190221_profile&wvr=6&mod=weibotime)
 
