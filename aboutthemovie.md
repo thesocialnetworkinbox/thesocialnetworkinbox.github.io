@@ -31,3 +31,10 @@ title: 电影相关
 [David Fincher与Aaron Sorkin在Charlie Rose Show讨论《社交网络》](https://weibo.com/7431190221/J3SQ2ax4x?ref=home&rid=0_0_8_3071706957374971222_0_1_0&type=comment)
 
 [论芬奇在拍砸电脑场景时是如何“折磨”Andrew的](https://www.weibo.com/7431190221/J4VAC9UWl?ref=home&rid=0_0_8_4735018624262496816_0_1_0&type=comment)
+
+[《社交网络》幕后花絮gif](https://weibo.com/1675780187/J5Kv0t8Vx?type=comment#_rnd1592400033920)
+
+[《社交网络》首张海报十周年](https://www.weibo.com/7431190221/J75NUFdSQ?from=page_1005057431190221_profile&wvr=6&mod=weibotime)
+
+[接上：《社交网络》海报与2018年3月《Wired》杂志封面](https://www.weibo.com/7431190221/J75TNktOm?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592400102396)
+
