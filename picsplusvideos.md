@@ -22,3 +22,5 @@ title: 图片视频
 [论芬奇在拍砸电脑场景时是如何“折磨”Andrew的](https://www.weibo.com/7431190221/J4VAC9UWl?ref=home&rid=0_0_8_4735018624262496816_0_1_0&type=comment)
 
 [Dylan O'Brien和Sarah Ramos重现《社交网络》砸电脑名场面](https://weibo.com/1675780187/J34wqamf6?from=page_1005051675780187_profile&wvr=6&mod=weibotime&type=comment)
+
+[《社交网络》幕后花絮gif](https://weibo.com/1675780187/J5Kv0t8Vx?type=comment#_rnd1592399270411)
