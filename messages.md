@@ -21,3 +21,7 @@ title: 短新闻
 [Facebook旗下的产品WhatsApp里的移动支付功能在第一个首发国巴西广泛推出了](https://www.weibo.com/7431190221/J6OGEzAxK?from=page_1005057431190221_profile&wvr=6&mod=weibotime)
 
 [Wired评选了一些2010s的经典电影，包括《社交网络》](https://www.weibo.com/7431190221/J6PbX3nva?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592399524506)
+
+[Facebook举办的Deepfakes识别比赛名次出炉](https://weibo.com/7431190221/J7qomty9w?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[Facebook建立专注于投资科技创业公司的风投基金](https://weibo.com/7431190221/J7qAWjodP?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
