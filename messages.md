@@ -25,3 +25,7 @@ title: 短新闻
 [Facebook举办的Deepfakes识别比赛名次出炉](https://weibo.com/7431190221/J7qomty9w?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
 [Facebook建立专注于投资科技创业公司的风投基金](https://weibo.com/7431190221/J7qAWjodP?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[Ready at Dawn转至Facebook麾下](https://weibo.com/7431190221/J7WvfeNK3?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[Facebook、Zuckerberg、游戏与《文明》系列](https://weibo.com/7431190221/J7WEY2Y1e?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
