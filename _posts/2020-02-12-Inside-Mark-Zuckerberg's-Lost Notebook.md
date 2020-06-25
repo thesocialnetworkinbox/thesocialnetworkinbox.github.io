@@ -68,7 +68,7 @@ Zuckerberg和Facebook在我的封面故事 "网络的新智慧（The New Wisdom 
 
 <p>然后是FaceMash，这个程序类似"Hot or Not"，鼓励学生给彼此的长相打分。为了填充图片数据库，他黑进了各个受保护的大学宿舍网站，这导致他被哈佛大学的行政委员会调查。据报道，他差一点点就被退学了。与他关系密切的人证实，他对这一威胁奇特地不以为然。(在一次 "再见，Mark"的派对上，19岁的Zuckerberg见到了他未来的妻子Priscilla Chan。当时这个非常可能被退学的男生戴着派对眼镜，眼镜上是关于喝啤酒的编程双关语)。</p>
 
-（译注：根据 [The Face of Facebook](https://thesocialnetworkinbox.github.io/The-Face-of-Facebook) 这篇文章，这个双关语是“#include beer.h”，用的是C语言中表示引用头文件的格式）
+（译注：根据 [The Face of Facebook](https://thesocialnetworkinbox.github.io/The-Face-of-Facebook) 这篇文章，这个双关语应该是类似“#include beer.h”，用的是C语言中表示引用头文件的格式）
 
 <!-- wp:paragraph -->
 <p>"他有种真正的自信，"他的同学Joe Green说。有一次Green与Zuckerberg和Chan一起走路去吃饭时，Zuckerberg冲动地冲进了一条繁忙的街道。"小心！" Chan当时喊。</p>
