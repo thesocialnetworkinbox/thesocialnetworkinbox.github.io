@@ -29,3 +29,5 @@ title: 短新闻
 [Ready at Dawn转至Facebook麾下](https://weibo.com/7431190221/J7WvfeNK3?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
 [Facebook、Zuckerberg、游戏与《文明》系列](https://weibo.com/7431190221/J7WEY2Y1e?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[大量知名广告商宣布将在7月停止在Facebook上投放广告](https://weibo.com/7431190221/J9aNFp8sN?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
