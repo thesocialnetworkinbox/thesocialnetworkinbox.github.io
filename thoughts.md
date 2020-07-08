@@ -13,3 +13,5 @@ title: 碎碎念
 [A Robot Mark Joke A Day Keeps The Doctor Away](https://weibo.com/7431190221/J7kOjF5gd?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592573035355)
 
 [或许是一则公告](https://weibo.com/7431190221/J6OCcAn7p?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[小扎，你是真的想当凯撒](https://weibo.com/7431190221/J9HsGv9Ji?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
