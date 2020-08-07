@@ -31,3 +31,10 @@ title: 短新闻
 [Facebook、Zuckerberg、游戏与《文明》系列](https://weibo.com/7431190221/J7WEY2Y1e?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
 [大量知名广告商宣布将在7月停止在Facebook上投放广告](https://weibo.com/7431190221/J9aNFp8sN?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[国会听证会前夕，扎在夏威夷冲浪](https://weibo.com/7431190221/Jci502Ers?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1596779814735)
+
+[接上一条消息](https://weibo.com/7431190221/JekIi054A?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[听证会新闻报道的几个碎片](https://weibo.com/7431190221/JekNBcTQG?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1596779863595)
+
