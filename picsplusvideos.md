@@ -30,3 +30,5 @@ title: 图片视频
 [接上：《社交网络》海报与2018年3月《Wired》杂志封面](https://www.weibo.com/7431190221/J75TNktOm?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592399771840)
 
 [Andy Samberg在Jimmy Fallon的节目上谈Zuckerberg帮他注册Facebook账号的有趣故事](https://weibo.com/7431190221/J7oS1xuvc?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[社交网络艺术海报](https://weibo.com/7431190221/JhB0IxMnd?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
