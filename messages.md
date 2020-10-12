@@ -43,3 +43,5 @@ title: 短新闻
 [Justin Timberlake发表ins庆祝社交网络十周年](https://weibo.com/7431190221/JniMdocaj?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
 
 [索金又又又又cue芬奇回来拍TSN2](https://weibo.com/7431190221/JoGgnzw52?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[2005年4月Eduardo Saverin给Mark Zuckerberg发的律师函](https://weibo.com/7431190221/JoNyn9o2n?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
