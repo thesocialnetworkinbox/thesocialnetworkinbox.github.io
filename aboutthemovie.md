@@ -38,3 +38,10 @@ title: 电影相关
 
 [接上：《社交网络》海报与2018年3月《Wired》杂志封面](https://www.weibo.com/7431190221/J75TNktOm?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment#_rnd1592400102396)
 
+[社交网络艺术海报](https://weibo.com/7431190221/JhB0IxMnd?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[Justin Timberlake发表ins纪念社交网络十周年](https://weibo.com/7431190221/JniMdocaj?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[索金又在cue芬奇赶快来拍TSN2](https://weibo.com/7431190221/JoGgnzw52?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
+
+[《帝国》杂志关于社交网络十周年的纪念文章](https://weibo.com/7431190221/JoGGshdLV?from=page_1005057431190221_profile&wvr=6&mod=weibotime&type=comment)
